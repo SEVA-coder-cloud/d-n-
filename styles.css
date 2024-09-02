@@ -1,5 +1,6 @@
 body {
     margin: 0px;
+    background: #F9FAFF;
 }
 
 .web-services {
@@ -44,24 +45,48 @@ body {
     width: 356px;
     height: 302px;
     border-radius: 23px;
-    background-color: rgb(135, 129, 129);
+    background-color: #FFFFFF;
     text-align: center;
 }
-.web-servisic-titel2 {
-    
-}
+
 .web-servisic-titel2{
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.important{
+.important0{
     width: 102px;
     height: 102px;
-    background-color: rgb(43, 13, 118);
+    background-color: #FF7A50D4;
 border-radius: 50px 50px 50px 50px;
 }
-.iri{
+.iri0{
     margin-top: 23px;
     margin-left: 27px;
+}
+.important11 {
+    width: 102px;
+    height: 102px;
+    background-color:white;
+border-radius: 50px 50px 50px 50px;
+}
+.iri11 {
+    margin-top: 23px;
+    margin-left: 27px;
+}
+.important22 {
+    width: 102px;
+    height: 102px;
+    background-color:white;
+border-radius: 50px 50px 50px 50px;
+}
+.iri22 {
+    margin-top: 23px;
+    margin-left: 27px;
+}
+.img33{
+    display: flex;
+    justify-content: center;
+    gap: 270px;
+    margin-top: -350px;
 }
